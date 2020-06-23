@@ -1,0 +1,57 @@
+.car {
+background-image: url("../img/car.png");
+    color: red;
+    background-repeat: no-repeat;
+    height: 585px;
+    width: 1280px;
+    margin: 10% 0 0 10%;
+    align-items: initial;
+    position: absolute  ;
+};
+.tree-container{
+    position: relative;
+
+}
+.tree{
+    background-image: url("../img/tree.png");
+    background-repeat: no-repeat;
+    /* background-size: 100px 300px; */
+    position: absolute;
+    background-size: 30%;
+    height: 676px;
+    width: 1280px;
+}
+.tree::after{
+    content: "";
+    background-image: url("../img/cat.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 25px 0 0 220px;
+    width: 20vh;
+    height: 20vh;
+    display: block;
+    transform:  rotate(15deg);
+}
+.car::before{
+    content: '';
+    position: absolute;
+    display: block;
+    bottom:30vh;
+    right: 3vh;
+    width: 2vh;
+    height: 2vh;
+    border-radius: 50%;
+    background-color: #474a4b;
+}
+
+.car::after{
+    content: '';
+    position: absolute;
+    display: block;
+    top: 22vh;
+    right: -2vh;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    background-color: #a0a5a7;
+}
