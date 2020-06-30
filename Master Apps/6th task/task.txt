@@ -1,0 +1,9 @@
+Using Twitter Bootstrap create a page that is 200vh height.
+
+Add a menu fixed to the top of the page.
+Split a content into responsive columns: 4 columns alongside each other for big screens, 2 columns alongside each other for medium screens and 1 full-screen column for small screens.
+Add a form (fields: input, select, radio, checkbox, text, submit button) to first column.
+Add a table (table header and 3 rows; add zebra-striping to a table) to the second column.
+Add a card with an image, title and text (bootstrap's card element) to the third column.
+Add two buttons to the fourth column. The first one should open a tooltip above the button. Second one should open a modal.
+In your answer paste HTML and JavaScript code. Remember to choose correct syntax style.

@@ -1,0 +1,7 @@
+.fa-ghost{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 30px;
+    transition: all .3s;
+}

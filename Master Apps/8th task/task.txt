@@ -1,0 +1,18 @@
+This JS basics challenge will check your knowledge of functions and conditional statements.
+
+Functions you have to create will take the object below as a parameter:
+
+
+
+const user = {
+  firstname: „Jan”,
+  lastname: „Kowalski”,
+  gender: „male”,
+  age: 17
+}
+Write three functions:
+
+getFullName(user) - function returns concatenated name and surname as a string
+isMale(user) - function returns true when a person is male
+isOfAge(user) - function returns true when a person is adult
+In your answer paste the solution code. Remember to choose correct syntax style.

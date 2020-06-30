@@ -1,0 +1,22 @@
+This challenge is divided in to parts.
+
+1. PART ONE
+
+Declare an array od users that will consist of 5 objects created based on the exemplar below:
+
+{
+
+  firstname: „Jan”,
+  lastname: „Kowalski”,
+  gender: „male”,
+  age: 17
+}
+
+2. PART TWO
+
+Using the created array:
+
+change the age of second element (user) to 88 years
+use map() method to create a new array of users where every user object will be extended by a property "student" with a "true" value 
+use filter() method to show only females
+In your answer paste the solution code. Remember to choose correct syntax style.

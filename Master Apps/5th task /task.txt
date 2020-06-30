@@ -1,0 +1,11 @@
+This challenge will check your CSS, HTML and media queries skills.
+
+Create a site template with a menu that has five random elements (ie.: main page, about us, products, etc...). Style the menu ao as to take full width of the screen and to be fixed to the top of the page.
+
+Next, write a media query for screens smaller than 767px and put there styles changing the menu into hamburger menu.
+
+All links should be invisible until hovering over the hamburger icon. To pick an icon you can use Font Awesome.
+
+Remember to use only HTML and CSS.
+
+In your answer paste the code from HTML and CSS files. Remember to choose correct syntax style.

@@ -1,0 +1,24 @@
+This challenge will check your knowledge about handling events. Your starting point is the page below:
+
+
+<body>
+ <i class="fas fa-ghost"></i>
+</body>
+and this style:
+
+.fa-ghost{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 30px;
+  transition: all .3s;
+}
+Your task is to write a script that moves the ghost below after clicking corresponding key on a keyboard.
+
+After every click of the arrow on the keyboard:
+
+left arrow - reduce the left value by 3%
+right arrow - increase the left value by 3%
+top arrow - reduce the top value by 3%
+bottom arrow - increase the top value by 3%
+Additionally, when after clicking on the ghost an alert with "Buuuuuu!" text should appear. Before you start, add Font Awesome to the page, using this link.

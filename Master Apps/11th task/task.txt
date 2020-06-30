@@ -1,0 +1,24 @@
+Your task is to create simple To Do list. You should include the following functionalities in your script:
+
+After clicking the "Add" button, a new position should appear at the top of the list.
+Every new list element should consist of a text we can type in a form and a "Remove" button.
+After clicking the "Remove" button, the corresponding position should disappear.
+You can use the HTML template below: 
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>To Do</title>
+    <script type="text/javascript" src=""></script>
+  </head>
+  <body>
+    <input type="text" name="" value="" id="input_field">
+    <button type="button" name="button" id="submit_button">Add</button>
+    <ul id="list"></ul>
+  </body>
+</html>
+​
+In your answer paste JS and HTML code. Remember to choose correct syntax style

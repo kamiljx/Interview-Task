@@ -1,0 +1,6 @@
+Your goal is to generate in a console (inside browser's developers tools) 2 shapes listed below.
+
+1) A pizza triangle!
+
+First row has 1 pizza, last row has 10 pizzas.
+

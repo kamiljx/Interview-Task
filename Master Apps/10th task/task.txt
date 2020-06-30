@@ -1,0 +1,5 @@
+This challenge will check your knowledge of objects.
+
+Create an object literal describing a dog. Dog object has name, size, color and two methods: giveVoice(), getDog(). First method, run on dog object, prints in a console (developer tools in the browser) „Hau Hau” string. The second method joins all properties of a dog object and returns them as a string.
+
+In your answer paste the solution code. Remember to choose correct syntax style.
